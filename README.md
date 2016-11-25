@@ -1,2 +1,2 @@
 # jira-github-int-01
-Prova di Integrazione JIRA
+Prova di Integrazione JIRA.
